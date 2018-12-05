@@ -496,6 +496,12 @@
         		<version>2.0</version>
       		</plugin>
       		
+      		<!-- javancss plug-in 추가 -->
+      		<plugin>
+          		<groupId>org.codehaus.mojo</groupId>
+          		<artifactId>javancss-maven-plugin</artifactId>
+          		<version>2.1</version>
+        	</plugin>
         </plugins>
     </reporting>
 
